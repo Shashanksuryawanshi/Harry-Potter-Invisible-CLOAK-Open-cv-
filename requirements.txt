@@ -1,0 +1,6 @@
+opencv-python
+streamlit
+numpy
+speechrecognition
+pyaudio
+scikit-learn
