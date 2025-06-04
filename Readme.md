@@ -18,7 +18,6 @@ Live Demo → 🌐 [https://invisibility-cloak.onrender.com](https://invisibilit
 
 ---
 
-## 📸 Demo
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-username/invisibility-cloak-app/main/demo.gif" width="600"/>
