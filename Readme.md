@@ -3,7 +3,7 @@
 A fun, real-time **Streamlit + OpenCV** web app that lets you become *invisible* using computer vision. Inspired by Harry Potter’s cloak, powered by **color masking**, **voice activation**, and **machine learning-based color detection**.
 
 Live Demo → 🌐 [https://invisibility-cloak.onrender.com](https://invisibility-cloak.onrender.com)  
-*(replace with your actual Render link)*
+
 
 ---
 
